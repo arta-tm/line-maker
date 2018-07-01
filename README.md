@@ -2,6 +2,7 @@
 
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 [![Greenkeeper badge](https://badges.greenkeeper.io/arta-tm/line-maker.svg)](https://greenkeeper.io/)
+[![Build Status](https://travis-ci.org/arta-tm/line-maker.svg?branch=master)](https://travis-ci.org/arta-tm/line-maker)
 [![Dev Dependencies](https://david-dm.org/arta-tm/line-maker/dev-status.svg)](https://david-dm.org/arta-tm/line-maker?type=dev)
 
 A library for creating and animating decorative lines on websites.
