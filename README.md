@@ -60,3 +60,4 @@ var lineMaker = new LinaMaker([
 
 find a way to writing tests
 write document
+create more demos
