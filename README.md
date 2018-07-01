@@ -18,7 +18,7 @@ npm install --save line-maker
 OR
 
 ```html
-<script src="https://unpkg.com/line-maker@1.0.0/dist/line-maker.umd.js"></script>
+<script src="https://unpkg.com/line-maker@1.0.1/dist/line-maker.umd.min.js"></script>
 ```
 
 ### Usage
